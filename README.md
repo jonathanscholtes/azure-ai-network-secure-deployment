@@ -1,11 +1,11 @@
 
-# AI Foundry Landing Zone with Managed Compute
+# AI Foundry Project Landing Zone - Network Secure
 
 > ⚠️ **Active Development**  
 > This project is under active development and may contain breaking changes. Stability will improve as we approach a stable release.
 
 ## Overview
-This repository implements the **Azure AI Baseline Reference Architecture** to deploy an **AI Foundry Landing Zone** with managed compute resources. It aligns with best practices for networking, security, and model hosting.
+This repository implements the **Azure AI Baseline Reference Architecture** to deploy an **AI Foundry Landing Zone**. It aligns with best practices for networking, security, and model hosting.
 
 The solution automates:
 - AI Foundry Projects
